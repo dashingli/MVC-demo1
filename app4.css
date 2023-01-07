@@ -1,0 +1,11 @@
+.app4{
+    width: 50vw;
+    height:50vh;
+    border:1px solid red;
+}
+.text-gradient {
+    background-image: linear-gradient(to right, orange, purple);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 30px;
+}

@@ -1,0 +1,27 @@
+.app2{
+    width: 50vw;
+    height: 50vh;
+    border:1px solid red;
+}
+ul{
+    list-style: none;
+}
+.tab{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.tab-1,.tab-2{
+    cursor: pointer;
+    border:1px solid gray;
+    padding:5px;
+}
+.no-display{
+    display: none;
+}
+.bc-color{
+    background-color: gray;
+}
+.matter-one ,.matter-two{
+    border:1px solid gray;
+}
